@@ -10,9 +10,9 @@ Currently exploring **Machine Learning**, **Deep Learning**, **NLP**, and **Comp
 
 - **Programming Languages**: Python, Java, C  
 - **Web Development**: HTML, CSS, JavaScript, Streamlit  
-- **Database Management**: MongoDB, SQL, Firebase  
+- **Database Management**: MongoDB, SQL  
 - **Tools & Platforms**: Git, GitHub, VS Code, FlowCV, Linktree  
-- **Other Skills**: OOPs, DBMS, Data Structures, Time Series  
+- **Other Skills**: OOPs, DBMS, Data Structures 
 - **ML & DL Frameworks**: Scikit-learn, TensorFlow, Keras, OpenCV
 
 ---
@@ -42,7 +42,7 @@ Computer vision project that detects user gaze for accessibility and behavioral 
 - ✉️ iswaryakarthick@example.com *(update with your actual email if desired)*  
 
 ---
-
-![Iswaryakarthick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iswaryakarthick&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iswaryakarthick&layout=compact&theme=radical)
+<div align="right">
+  <img src="https://github.com/Iswarya K/PHOTO ORIGINAL.jpg" alt="Profile Picture" width="200" />
+</div>
 
